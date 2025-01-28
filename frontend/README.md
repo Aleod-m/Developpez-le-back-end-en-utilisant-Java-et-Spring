@@ -53,3 +53,12 @@ https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#
 ### MySQL
 
 SQL script for creating the schema is available `ressources/sql/script.sql`
+
+### Attendus.
+
+- Backend fonctione sans erreures.
+- Toute les routes presentes.
+- Swagger.
+- Decouper les code Controller/Service/Repository. 
+- Security.
+- Encrypter les mdp en base.

@@ -14,6 +14,10 @@
           typescript-language-server
           mockoon
           postman
+          mysql84
+          jdk17
+          typescript-language-server
+          maven
         ];
       };
     };
