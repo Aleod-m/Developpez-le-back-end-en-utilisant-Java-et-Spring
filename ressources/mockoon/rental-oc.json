@@ -640,7 +640,15 @@
       "value": ""
     }
   ],
-  "data": [],
+  "data": [
+    {
+      "uuid": "673a01ef-7005-4500-803e-929276f47637",
+      "id": "6by3",
+      "name": "New data",
+      "documentation": "",
+      "value": ""
+    }
+  ],
   "folders": [],
   "rootChildren": [
     {
@@ -680,5 +688,20 @@
       "uuid": "fba99f12-f037-44b1-96d3-400b7778e0a9"
     }
   ],
-  "callbacks": []
+  "callbacks": [
+    {
+      "uuid": "9d7d0f5c-542d-4041-bac9-7128266f613e",
+      "id": "x3xf",
+      "uri": "",
+      "name": "Callback",
+      "documentation": "",
+      "method": "post",
+      "headers": [],
+      "bodyType": "INLINE",
+      "body": "",
+      "databucketID": "",
+      "filePath": "",
+      "sendFileAsBody": true
+    }
+  ]
 }
