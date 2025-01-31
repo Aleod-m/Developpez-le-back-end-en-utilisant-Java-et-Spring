@@ -1,0 +1,29 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+   <parent>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-parent</artifactId>
+      <version>3.4.1</version>
+      <relativePath/> <!-- lookup parent from repository -->
+   </parent>
+   <dependencies>
+      <dependency>
+         <groupId>jakarta.persistence</groupId>
+         <artifactId>jakarta.persistence-api</artifactId>
+         <version>3.1.0</version>
+         <scope>compile</scope>
+      </dependency>
+   </dependencies>
+  l
+   <modelVersion>4.0.0</modelVersion>
+   <groupId>com.chatop</groupId>
+   <artifactId>app</artifactId>
+   <version>0.0.1-SNAPSHOT</version>
+   <packaging>pom</packaging>
+
+   <name>estate</name>
+   <description>Estate by chatop.</description>
+   <modules>
+      <module>backend</module>
+   </modules>
+
+</project>
